@@ -1,0 +1,5 @@
+# Register EnableAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = \
+com.alibaba.boot.web.autoconfigure.ExclusiveViewResolverConfiguration,\
+com.alibaba.boot.web.autoconfigure.ContentNegotiationManagerConfiguration,\
+com.alibaba.boot.web.autoconfigure.SpeedupWebMvcAutoConfiguration
