@@ -41,7 +41,7 @@ An support project for Spring Boot Web
     <dependency>
         <groupId>com.alibaba.boot</groupId>
         <artifactId>spring-boot-web-support</artifactId>
-        <version>0.1.0</version>
+        <version>1.0.0.RELEASE</version>
     </dependency>
 
     ......
